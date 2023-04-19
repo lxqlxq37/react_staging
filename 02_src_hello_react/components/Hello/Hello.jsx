@@ -5,6 +5,6 @@ import hello from './Hello.module.css'
 //创建并暴露组件
 export default class Hello extends Component{
     render(){
-        return <h2 class={hello.title}>Hello React！</h2>
+        return <h2 class={hello.title}>Hello React！！！</h2>
     }
 }
